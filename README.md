@@ -20,6 +20,10 @@ Execute the python script as so:
     python scraper.py
 ```
 
+## Source
+
+[Web Scrapping using Mechanize And Beautifulsoup](https://pythondevs.wordpress.com/2014/04/08/web-scrapping-using-mechanize-and-beautifulsoup/)
+
 ## TODO
 
 1. Command line input to read website URL at runtime
